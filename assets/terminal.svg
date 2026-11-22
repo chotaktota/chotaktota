@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">orealis</title>
+  <desc id="desc">Терминальный баннер. Kotlin / Java, инструменты для Minecraft</desc>
+  <rect width="1280" height="320" rx="16" fill="#141415"/>
+  <path d="M48 72H1232" stroke="#ededed" stroke-opacity=".1"/>
+  <g font-family="Consolas, monospace" font-weight="400">
+    <text x="48" y="48" font-size="20" fill="#85858b">~/orealis</text>
+    <text x="48" y="168" font-size="64" fill="#a3be8c">&gt;</text>
+    <text x="112" y="168" font-size="64" fill="#ededed">orealis</text>
+    <text x="112" y="224" font-size="24" fill="#a1a1a6">Kotlin / Java · Minecraft</text>
+    <text x="112" y="272" font-size="20" fill="#85858b">plugins / tools / server-side</text>
+  </g>
+</svg>
